@@ -76,6 +76,6 @@ const me = {
 me.favouriteFood = "seafood pasta";
 delete me.age;
 
-for ( const key in me){
+for (const key in me){
     console.log(key + ": " + me[key]);
 }
