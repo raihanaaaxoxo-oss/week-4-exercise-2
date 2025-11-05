@@ -78,4 +78,4 @@ delete me.age;
 
 for (const key in me){
     console.log(key + ": " + me[key]);
-}
+} 
